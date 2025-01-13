@@ -14,19 +14,19 @@
 
 ## 👥 구성원 소개
 
-<img src="https://github.com/user-attachments/assets/3091aef5-ae34-45ee-a9ca-e4474fda370a" width="800"/>
+<img src="https://github.com/user-attachments/assets/3091aef5-ae34-45ee-a9ca-e4474fda370a" width="500"/>
 
 ---
 
 ## 🗓️ 프로젝트 일정
 
-<img src="https://github.com/user-attachments/assets/9891b090-bc71-48ff-b6dc-94e5a872e0cc" width="800"/>
+<img src="https://github.com/user-attachments/assets/9891b090-bc71-48ff-b6dc-94e5a872e0cc" width="500"/>
 
 ---
 
 ## 🛠️ 기술 스택 및 프레임워크
 
-<img src="https://github.com/user-attachments/assets/a6e9cb45-f28c-4dd1-984a-141f31466a33" width="800"/>
+<img src="https://github.com/user-attachments/assets/a6e9cb45-f28c-4dd1-984a-141f31466a33" width="500"/>
 
 ---
 
@@ -65,7 +65,7 @@
 - **Celery Executor**와 **Auto Scaling Worker**로 구성하여 **분산 처리 환경** 구축  
 - 다수의 DAG를 **동시 실행** 가능  
 
-<img src="https://github.com/user-attachments/assets/38cc0453-694d-4eb6-a823-006bfd553611" width="800"/>
+<img src="https://github.com/user-attachments/assets/38cc0453-694d-4eb6-a823-006bfd553611" width="500"/>
 
 ---
 
@@ -74,7 +74,7 @@
 - **Nginx(Public Subnet)** → **웹 서버(Django, Private Subnet)** 구조  
 - **DNS 서버**와 연결을 통해 안정적인 서비스 제공  
 
-<img src="https://github.com/user-attachments/assets/3660a037-0373-4471-8f61-3831c7c62ddd" width="800"/>
+<img src="https://github.com/user-attachments/assets/3660a037-0373-4471-8f61-3831c7c62ddd" width="500"/>
 
 ---
 ## 🔎 데이터 파이프라인
@@ -99,6 +99,6 @@
    - **RDS** → **Django** 웹 서비스  
    - **Snowflake** → **Preset** 대시보드  
 
-<img src="https://github.com/user-attachments/assets/46e9fbcd-d13a-40dc-97cc-f0977f5189e3" width="800"/>
+<img src="https://github.com/user-attachments/assets/46e9fbcd-d13a-40dc-97cc-f0977f5189e3" width="600"/>
 
 ---
